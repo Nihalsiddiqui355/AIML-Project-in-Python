@@ -1,0 +1,32 @@
+<aiml version="1.0.1" encoding="UTF-8">
+
+    <!-- just way of code in aiml -->
+
+    <category>
+        <pattern>LOAD AIML B</pattern>
+        <template>
+            <learn>bot_chat.aiml</learn>
+        </template>
+    </category>
+
+    <!-- <category>
+        <pattern>LOAD AIML B</pattern>
+        <template>
+            <learn>./botdata/alice/*aiml</learn>
+        </template>
+    </category> -->
+
+    <!-- <category>
+        <pattern>LOAD AIML B</pattern>
+        <template>
+            <learn>./botdata/standard/*aiml</learn>
+        </template>
+    </category> -->
+    <!-- <category>
+        <pattern>LOAD AIML B</pattern>
+        <template>
+            <learn>./botdata/alice/ai.aiml</learn>
+        </template>
+    </category> -->
+
+</aiml>
